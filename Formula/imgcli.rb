@@ -1,8 +1,8 @@
 class Imgcli < Formula
   desc "Lightweight ffmpeg-style image conversion & processing CLI (no deps)"
   homepage "https://github.com/swperb/imgcli"
-  url "https://github.com/swperb/imgcli/archive/refs/tags/v0.2.0.tar.gz"
-  sha256 "1126075c9cc674b69ec45a7a30eb01c858c481ea0fef21f520f6021b0303fa25"
+  url "https://github.com/swperb/imgcli/archive/refs/tags/v0.3.0.tar.gz"
+  sha256 "ed0ec9e323ceb7c0e68c727a23587c2e1544857de3ad3878875edf679a825bb3"
   license "MIT"
   head "https://github.com/swperb/imgcli.git", branch: "main"
 
